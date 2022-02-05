@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Projeto Digital Innovation One - Explorando Padrões de Projetos na Prática com Java
+# Projeto Digital Innovation One - Criando a interface do iFood com React Native
 Este projeto foi proposto pela Digital Innovation One
 - Link do código original: https://web.dio.me/project/criando-interface-do-ifood-com-react-native/learning/8a373bbd-0925-456e-a613-8c5827a91187?back=/track/mrv-fullstack-developer
 - Professor: Pablo Henrique
